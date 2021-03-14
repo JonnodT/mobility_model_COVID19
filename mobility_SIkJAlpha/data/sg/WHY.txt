@@ -1,0 +1,1 @@
+Because SafeGraph's hourly visitor pattern is only open to researchers upon request. We will not make it public in this repo. Please check https://docs.safegraph.com/v4.0/docs/weekly-patterns for data schema and latest access policies. 
