@@ -2,4 +2,4 @@
 Models and Experiments implementations of POI Visits Mobility
 
 
-## Temporary: Code Cleanup and refactoring still in the work. Project will be uploaded here soon. 
+## Temporary: Code Cleanup and refactoring still in the work. Repo will be updated. 
